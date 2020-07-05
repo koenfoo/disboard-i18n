@@ -24,4 +24,9 @@
 	"I'm handling your command": "我在處理您的命令",
 	"This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "此伺服器設置為私有。\n從儀表板 (https://disboard.org/dashboard) 設置為公共以突破此伺服器",
 	"This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "尚未在DISBOARD上添加此私服器。\n從儀表板添加此伺服器（https://disboard.org/dashboard）"
+	"This server is not listed because the invite has been deleted": "此伺服器因邀請刪除而未列",
+	"Create invite with `%s` command": "請使用 `%s` 命令以創建邀請",
+ 	"Command failed": "命令失敗",
+ 	"DISBOARD API server seems to be down": "DISBOARD API 伺服器若當機",
+	"You are rate limited. Please wait %s seconds": "You are rate limited. 請稍等 %s 秒"
 }
